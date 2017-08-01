@@ -1,0 +1,10 @@
+[gammu]
+
+port = /dev/ttyUSB2
+model =
+connection = at19200
+synchronizetime = yes
+logfile =
+logformat = nothing
+use_locking =
+gammuloc =
