@@ -14,4 +14,4 @@ gammu is configured to use an ZTE MF112 3G USB modem to send text messages.
 - Single recipient:
 URL: http://localhost/sms.php?rec=06641234567&text=Sample UTF8 text with spaces and all that!
 - Multiple recipients:
-URL: http://localhost/sms.php?rec=06641234567;06991234567;06761234567&text=Sample UTF8 text with spaces and all that!
+URL: http://localhost/sms.php?rec=06641234567;06991234567;06761234567&text=Sample UTF8 text with spaces, multiple recipients and all that
